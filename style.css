@@ -1,0 +1,20 @@
+h1{
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(255, 137, 47);
+    background-color: aqua;
+    text-align: center;
+    margin:10px auto;
+
+}
+div{
+    background-color: red;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    background-color: rgb(141, 177, 232);
+    color: black;
+
+}
